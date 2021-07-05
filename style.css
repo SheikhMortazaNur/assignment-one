@@ -1,0 +1,27 @@
+#salam{
+    color: rgb(74, 129, 131);
+    font-size: 40px;
+    text-decoration:none;
+}
+body{
+    font-family: 'Fredoka One', cursive;
+    background-image: url(images/greenbc2.PNG);
+}
+#first-sector{ display: flex;
+    background-image: url(images/haha.PNG);
+    border-radius: 20px;
+    box-shadow: 7px 7px 7px  slategrey;
+    padding: 15px 15px 15px 20px;
+    font-size: 22px;
+    color: rgb(53, 59, 65);
+}
+#first-pic{
+    margin-right: 1px;
+}
+#order{
+    background-image: linear-gradient(cadetblue, darkcyan);
+    text-decoration: none;
+    color: snow;
+    padding: 6px 6px 6px 6px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px silver;
