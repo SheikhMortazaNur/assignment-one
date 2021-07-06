@@ -7,7 +7,7 @@ body{
     font-family: 'Fredoka One', cursive;
     background-image: url(images/greenbc2.PNG);
 }
-#first-sector{ display: flex;
+#first-section{ display: flex;
     background-image: url(images/haha.PNG);
     border-radius: 20px;
     box-shadow: 7px 7px 7px  slategrey;
@@ -15,13 +15,64 @@ body{
     font-size: 22px;
     color: rgb(53, 59, 65);
 }
-#first-pic{
-    margin-right: 1px;
-}
-#order{
+
+
+.button{
     background-image: linear-gradient(cadetblue, darkcyan);
     text-decoration: none;
     color: snow;
     padding: 6px 6px 6px 6px;
     border-radius: 10px;
     box-shadow: 5px 5px 5px silver;
+}
+.about{
+    color: cadetblue; 
+}
+#second-section{ display: flex;
+    background-image: url(images/hum\ 2.PNG);
+    border-radius: 20px;
+    box-shadow: 7px 7px 7px  slategrey;
+    padding: 15px 15px 15px 20px;
+    font-size: 22px;
+    color: rgb(53, 59, 65); 
+    text-align: right;
+}
+#menu-title{
+    text-align:center;
+}
+#card-one{
+    border-radius: 10px;
+    width: 40%;
+    margin: 5%;
+    box-shadow: 10px 10px 40px slategrey;
+    padding: 10px 10px 25px 10px;
+text-align: center;}
+
+#card-one img{
+    width: 100%;}
+#card-two{
+    border-radius: 10px;
+    width: 40%;
+    margin: 5%;
+    box-shadow: 10px 10px 40px slategrey;
+    padding: 10px 10px 25px 10px;
+    text-align: center;
+}
+#card-two img{
+    width: 100%;}
+#card-three{
+    border-radius: 10px;
+    width: 40%;
+    margin: 5%;
+    box-shadow: 10px 10px 40px slategrey;
+    padding:10px 10px 25px 10px;
+    text-align: center;
+}
+#card-three img{
+    width: 100%}
+#cards{
+    display: flex;
+    padding: 
+    width: 80%
+}
+
