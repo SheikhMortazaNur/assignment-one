@@ -72,7 +72,34 @@ text-align: center;}
     width: 100%}
 #cards{
     display: flex;
-    padding: 
-    width: 80%
+    width: 100%;
 }
+#sharing{  color: red;
+    font-size: 45px;
+    text-align: center;
+
+}
+#love{
+    text-align: center;
+    font-family:'Titan One', cursive
+}
+#caring{ color: orange;
+    font-size: 30px;
+}
+footer {color: beige; text-align:center;
+    font-size:smaller;
+    background-color: black;
+    padding: 50px 50px 50px 50px;
+    border-radius: 10px;
+
+}
+#last-div{
+    display: flex;
+    width: 20px;
+    padding-left: 720px;
+}
+#last-h1{
+    text-align: center;
+}
+
 
